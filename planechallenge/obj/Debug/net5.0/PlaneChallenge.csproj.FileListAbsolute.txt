@@ -1,0 +1,16 @@
+C:\Users\POberhau\Documents\Projects\PlaneChallenge\planechallenge\bin\Debug\net5.0\PlaneChallenge.exe
+C:\Users\POberhau\Documents\Projects\PlaneChallenge\planechallenge\bin\Debug\net5.0\PlaneChallenge.deps.json
+C:\Users\POberhau\Documents\Projects\PlaneChallenge\planechallenge\bin\Debug\net5.0\PlaneChallenge.runtimeconfig.json
+C:\Users\POberhau\Documents\Projects\PlaneChallenge\planechallenge\bin\Debug\net5.0\PlaneChallenge.runtimeconfig.dev.json
+C:\Users\POberhau\Documents\Projects\PlaneChallenge\planechallenge\bin\Debug\net5.0\PlaneChallenge.dll
+C:\Users\POberhau\Documents\Projects\PlaneChallenge\planechallenge\bin\Debug\net5.0\ref\PlaneChallenge.dll
+C:\Users\POberhau\Documents\Projects\PlaneChallenge\planechallenge\bin\Debug\net5.0\PlaneChallenge.pdb
+C:\Users\POberhau\Documents\Projects\PlaneChallenge\planechallenge\obj\Debug\net5.0\PlaneChallenge.csproj.AssemblyReference.cache
+C:\Users\POberhau\Documents\Projects\PlaneChallenge\planechallenge\obj\Debug\net5.0\PlaneChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\POberhau\Documents\Projects\PlaneChallenge\planechallenge\obj\Debug\net5.0\PlaneChallenge.AssemblyInfoInputs.cache
+C:\Users\POberhau\Documents\Projects\PlaneChallenge\planechallenge\obj\Debug\net5.0\PlaneChallenge.AssemblyInfo.cs
+C:\Users\POberhau\Documents\Projects\PlaneChallenge\planechallenge\obj\Debug\net5.0\PlaneChallenge.csproj.CoreCompileInputs.cache
+C:\Users\POberhau\Documents\Projects\PlaneChallenge\planechallenge\obj\Debug\net5.0\PlaneChallenge.dll
+C:\Users\POberhau\Documents\Projects\PlaneChallenge\planechallenge\obj\Debug\net5.0\ref\PlaneChallenge.dll
+C:\Users\POberhau\Documents\Projects\PlaneChallenge\planechallenge\obj\Debug\net5.0\PlaneChallenge.pdb
+C:\Users\POberhau\Documents\Projects\PlaneChallenge\planechallenge\obj\Debug\net5.0\PlaneChallenge.genruntimeconfig.cache
