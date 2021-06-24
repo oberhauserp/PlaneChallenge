@@ -56,7 +56,7 @@ namespace PlaneChallenge
 
             foreach (Seat seat in plane.getAvailableSets())
             {
-                Console.WriteLine($"Seat: {seat.SeatNumber}");
+                Console.WriteLine($"Seat: {seat.SeatNumber} {seat.SeatPosition}");
             }
 
         }
